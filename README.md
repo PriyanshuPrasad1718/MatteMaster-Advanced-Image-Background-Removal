@@ -19,6 +19,12 @@ The training was run for **10 epochs**, taking approximately **18 hours** with t
 - **TensorFlow Support**: Built using TensorFlow for flexibility and efficiency.
 - **Python Compatibility**: Written in Python, making it accessible and easy to integrate with other projects.
 
+## Results
+
+https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/craig-mckay-jmURdhtm7Ng-unsplash.jpg
+https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/erik-lucatero-d2MSDujJl2g-unsplash.jpg
+https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/urban-gyllstrom-9sePkgbw0Bg-unsplash.jpg
+
 ## Technology Stack
 
 - Python 3.x
@@ -38,4 +44,3 @@ For more details on the dataset, visit the official P3M-10k repository [here](ht
 
 - Paper: U^2-Net: [Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007).
 - P3M-10k Dataset: Visit the dataset repository [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUh1MGRSM1hDYjN2Nzl4a2Vfc2xXNk5Dd0t1d3xBQ3Jtc0trQ3JTUUNJeEJ3Y2NVU3ZwdVFZa0VyNmZTTVJNbUJOVVJRdzRMRGhIdnJ4SXRGQWkxNGhKWUYzeUlaY2I2dWZVOHNCaTdDakdBc2V6aGluSzlKQzlBRXBQcFVCSUs0SG9NMzk2YUltTV9nTV9OQjhmbw&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1LqUU7BZeiq8I3i5KxApdOJ2haXm-cEv1&v=S54EprtQdjA).
-License
