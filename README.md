@@ -21,7 +21,7 @@ The training was run for **10 epochs**, taking approximately **18 hours** with t
 
 ## Getting Started
 
-### Prerequisites
+### Technology Stack
 
 - Python 3.x
 - TensorFlow 2.x
