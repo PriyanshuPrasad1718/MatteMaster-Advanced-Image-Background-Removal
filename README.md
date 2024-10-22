@@ -19,9 +19,7 @@ The training was run for **10 epochs**, taking approximately **18 hours** with t
 - **TensorFlow Support**: Built using TensorFlow for flexibility and efficiency.
 - **Python Compatibility**: Written in Python, making it accessible and easy to integrate with other projects.
 
-## Getting Started
-
-### Technology Stack
+## Technology Stack
 
 - Python 3.x
 - TensorFlow 2.x
@@ -30,10 +28,14 @@ The training was run for **10 epochs**, taking approximately **18 hours** with t
 - NumPy
 - Matplotlib
 
-### Installation
+## Dataset
 
-Clone the repository:
+The model is trained using the P3M-10k dataset, a large-scale portrait image dataset consisting of 10,000 images annotated with fine-level details for matting. This dataset ensures high-quality segmentation, making it suitable for real-world portrait matting applications.
 
-```bash
-git clone https://github.com/yourusername/U2Net-Image-Matting.git
-cd U2Net-Image-Matting
+For more details on the dataset, visit the official P3M-10k repository [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUh1MGRSM1hDYjN2Nzl4a2Vfc2xXNk5Dd0t1d3xBQ3Jtc0trQ3JTUUNJeEJ3Y2NVU3ZwdVFZa0VyNmZTTVJNbUJOVVJRdzRMRGhIdnJ4SXRGQWkxNGhKWUYzeUlaY2I2dWZVOHNCaTdDakdBc2V6aGluSzlKQzlBRXBQcFVCSUs0SG9NMzk2YUltTV9nTV9OQjhmbw&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1LqUU7BZeiq8I3i5KxApdOJ2haXm-cEv1&v=S54EprtQdjA).
+
+## References
+
+- Paper: U^2-Net: [Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007).
+- P3M-10k Dataset: Visit the dataset repository [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUh1MGRSM1hDYjN2Nzl4a2Vfc2xXNk5Dd0t1d3xBQ3Jtc0trQ3JTUUNJeEJ3Y2NVU3ZwdVFZa0VyNmZTTVJNbUJOVVJRdzRMRGhIdnJ4SXRGQWkxNGhKWUYzeUlaY2I2dWZVOHNCaTdDakdBc2V6aGluSzlKQzlBRXBQcFVCSUs0SG9NMzk2YUltTV9nTV9OQjhmbw&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1LqUU7BZeiq8I3i5KxApdOJ2haXm-cEv1&v=S54EprtQdjA).
+License
