@@ -1,4 +1,4 @@
-# U2-Net Image Matting for High-Quality Background Removal
+# MatteMaster-Advanced Image Background Removal
 
 This project implements the **U2-Net architecture** in TensorFlow, enabling high-quality background removal from human portraits. It leverages the advancements of deep learning to perform **image matting** with remarkable precision, producing polished and professional results.
 
@@ -21,9 +21,9 @@ The training was run for **10 epochs**, taking approximately **18 hours** with t
 
 ## Results
 
-https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/craig-mckay-jmURdhtm7Ng-unsplash.jpg
-https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/erik-lucatero-d2MSDujJl2g-unsplash.jpg
-https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/urban-gyllstrom-9sePkgbw0Bg-unsplash.jpg
+![Image Alt](https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/craig-mckay-jmURdhtm7Ng-unsplash.jpg)
+![Image Alt](https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/erik-lucatero-d2MSDujJl2g-unsplash.jpg)
+![Image Alt](https://github.com/PriyanshuPrasad1718/MatteMaster-Advanced-Image-Background-Removal/blob/711d0b5856c3f752b12b538a9dc35065b664abe0/result/joint/urban-gyllstrom-9sePkgbw0Bg-unsplash.jpg)
 
 ## Technology Stack
 
